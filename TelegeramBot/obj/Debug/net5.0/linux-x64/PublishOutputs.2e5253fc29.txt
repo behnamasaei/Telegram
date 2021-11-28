@@ -1,0 +1,10 @@
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 9\TelegeramBot\TelegeramBot\bin\Release\net5.0\publish\linux-x64\TelegeramBot.pdb
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 9\TelegeramBot\TelegeramBot\bin\Release\net5.0\publish\linux-x64\libmp3lame.32.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 9\TelegeramBot\TelegeramBot\bin\Release\net5.0\publish\linux-x64\libmp3lame.64.dll
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 9\TelegeramBot\TelegeramBot\bin\Release\net5.0\publish\linux-x64\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 9\TelegeramBot\TelegeramBot\bin\Release\net5.0\publish\linux-x64\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 9\TelegeramBot\TelegeramBot\bin\Release\net5.0\publish\linux-x64\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 9\TelegeramBot\TelegeramBot\bin\Release\net5.0\publish\linux-x64\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 9\TelegeramBot\TelegeramBot\bin\Release\net5.0\publish\linux-x64\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 9\TelegeramBot\TelegeramBot\bin\Release\net5.0\publish\linux-x64\libMicrosoft.CognitiveServices.Speech.extension.mas.so
+C:\Users\behnam\source\repos\AzOs-Python-\Assignment 9\TelegeramBot\TelegeramBot\bin\Release\net5.0\publish\linux-x64\TelegeramBot

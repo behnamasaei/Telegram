@@ -15,4 +15,7 @@
     <SourceRoot Include="C:\Program Files (x86)\Progress\ToolboxNuGetPackages\" />
     <SourceRoot Include="C:\Microsoft\Xamarin\NuGet\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.cognitiveservices.speech\1.19.0\build\Microsoft.CognitiveServices.Speech.props" Condition="Exists('$(NuGetPackageRoot)microsoft.cognitiveservices.speech\1.19.0\build\Microsoft.CognitiveServices.Speech.props')" />
+  </ImportGroup>
 </Project>

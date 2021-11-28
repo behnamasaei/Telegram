@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yu4REa2fpol0OFsOq833uh6I0IAkoWOnFtQSWq11sJmxI1qA6k8NzQHQyggUnPPKTt70iYbDmnFZgsz1mRYA5w==",
+  "dgSpecHash": "UhS2bwdKsGl/c7wkw4rgmPwLFuhtuycWcjQ66qGDxUy0tvPC//w71rVBMjQ0o7A4PX/HPJo6PljmCyH507l0eA==",
   "success": true,
   "projectFilePath": "C:\\Users\\behnam\\source\\repos\\AzOs-Python-\\Assignment 9\\TelegeramBot\\TelegeramBot\\TelegeramBot.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\behnam\\.nuget\\packages\\microsoft.applicationinsights.windowsserver\\2.15.0\\microsoft.applicationinsights.windowsserver.2.15.0.nupkg.sha512",
     "C:\\Users\\behnam\\.nuget\\packages\\microsoft.applicationinsights.windowsserver.telemetrychannel\\2.15.0\\microsoft.applicationinsights.windowsserver.telemetrychannel.2.15.0.nupkg.sha512",
     "C:\\Users\\behnam\\.nuget\\packages\\microsoft.applicationinsights.workerservice\\2.15.0\\microsoft.applicationinsights.workerservice.2.15.0.nupkg.sha512",
+    "C:\\Users\\behnam\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.19.0\\microsoft.cognitiveservices.speech.1.19.0.nupkg.sha512",
     "C:\\Users\\behnam\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\1.0.0\\microsoft.extensions.caching.abstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\behnam\\.nuget\\packages\\microsoft.extensions.caching.memory\\1.0.0\\microsoft.extensions.caching.memory.1.0.0.nupkg.sha512",
     "C:\\Users\\behnam\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
@@ -158,8 +159,6 @@
     "C:\\Users\\behnam\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\behnam\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
     "C:\\Users\\behnam\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.0\\telegram.bot.extensions.polling.1.0.0.nupkg.sha512",
-    "C:\\Users\\behnam\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.12\\microsoft.netcore.app.runtime.linux-x64.5.0.12.nupkg.sha512",
-    "C:\\Users\\behnam\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.12\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.12.nupkg.sha512",
     "C:\\Users\\behnam\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.12\\microsoft.netcore.app.host.linux-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
